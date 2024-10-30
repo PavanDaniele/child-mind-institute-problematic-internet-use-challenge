@@ -1,5 +1,5 @@
 (Italian Version Below)
-# <img src="https://github.com/user-attachments/assets/68752974-5688-4265-9edc-7dcef72331cc" width="50" height="50"> Child Mind Institute - Problematic Internet Use Challenge  <img src="https://github.com/user-attachments/assets/4ea033ae-0637-4942-af86-5af6dc58eab7" width="80" height="50">
+# <img src="thumbnail.jpg" width="50" height="50" alt="Child Mind Institute logo"> Child Mind Institute - Problematic Internet Use Challenge  <img src="header.png" width="80" height="50" alt="Header Image">
 
 This repository contains my solution for the **Child Mind Institute - Problematic Internet Use** competition hosted on Kaggle.
 
@@ -42,7 +42,7 @@ Potential improvements include:
 ***
 ---
 
-# <img src="https://github.com/user-attachments/assets/68752974-5688-4265-9edc-7dcef72331cc" width="50" height="50"> Child Mind Institute - Problematic Internet Use Challenge  <img src="https://github.com/user-attachments/assets/4ea033ae-0637-4942-af86-5af6dc58eab7" width="80" height="50">
+# <img src="thumbnail.jpg" width="50" height="50" alt="Child Mind Institute logo"> Child Mind Institute - Problematic Internet Use Challenge  <img src="header.png" width="80" height="50" alt="Header Image">
 
 Questo progetto è parte della competizione Kaggle dedicata alla predizione dell'uso problematico di internet nei bambini.
 
