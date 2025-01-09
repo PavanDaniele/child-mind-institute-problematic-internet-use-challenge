@@ -42,10 +42,9 @@ Potential improvements include:
 
 ***
 ---
-
+<a id="Italian-Version-Below"></a>
 # <img src="thumbnail.jpg" width="50" height="50" alt="Child Mind Institute logo"> Child Mind Institute - Problematic Internet Use Challenge  <img src="header.png" width="80" height="50" alt="Header Image">
 
-<a id="Italian-Version-Below"></a>
 Questo progetto è parte della competizione Kaggle dedicata alla predizione dell'uso problematico di internet nei bambini.
 
 ## Descrizione
