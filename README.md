@@ -1,4 +1,4 @@
-(Italian Version Below - [Vai alla versione italiana](#versione-italiana))
+(Italian Version Below - [Go to the italian version](#Italian-Version-Below))
 
 # <img src="thumbnail.jpg" width="50" height="50" alt="Child Mind Institute logo"> Child Mind Institute - Problematic Internet Use Challenge  <img src="header.png" width="80" height="50" alt="Header Image">
 
@@ -45,7 +45,7 @@ Potential improvements include:
 
 # <img src="thumbnail.jpg" width="50" height="50" alt="Child Mind Institute logo"> Child Mind Institute - Problematic Internet Use Challenge  <img src="header.png" width="80" height="50" alt="Header Image">
 
-<a id="versione-italiana"></a>
+<a id="Italian-Version-Below"></a>
 Questo progetto è parte della competizione Kaggle dedicata alla predizione dell'uso problematico di internet nei bambini.
 
 ## Descrizione
